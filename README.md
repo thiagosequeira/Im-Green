@@ -11,7 +11,7 @@ Im Green is an app for you to stay available for as long as you want.
 
 # Download
 
-  * **[Latest Version]([https://github.com/cheat-engine/cheat-engine/releases/latest](https://github.com/thiagosequeira/Im-Green/blob/master/dist/ImGreen.exe))**
+  * **[Latest Version]([https://github.com/cheat-engine/cheat-engine/releases/latest](https://github.com/thiagosequeira/Im-Green/blob/master/dist/ImGreen.exe])**
 
 
 
