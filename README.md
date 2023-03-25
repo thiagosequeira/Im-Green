@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
-        <img src="https://github.com/thiagosequeira/Im-Green/blob/master/ImGreen.ico" />
-    </a>
-</p>
-
 <h1 align="center">Im Green</h1>
 
 Im Green is an app for you to stay available for as long as you want.
