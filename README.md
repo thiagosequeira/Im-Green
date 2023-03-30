@@ -1,6 +1,6 @@
 <h1 align="center">Im Green</h1>
 
-Im Green is an app for you to stay available for as long as you want.
+No mas ausente fué creado con la finalidad de que no se te asigne el estado 'Ausente' en Microsoft Teams automaticamente después de un tiempo determinado.
 
 
 # Download
@@ -9,13 +9,13 @@ Im Green is an app for you to stay available for as long as you want.
 
 
 
-## Collaborate with us on this project
+## Colabora en este proyecto
 
-  This project is open source and everybody can collaborate for it's evolution.
+  Este proyecto es código abierto, puedes colaborar añadiendo alguna nueva feature o mejorando el estilo.
 
 
 
-## Basic Download Instructions
+## Instrucciones básicas de descarga
 
   1. Download the .exe from https://github.com/thiagosequeira/Im-Green/blob/master/dist/ImGreen.exe.
   2. Run Im Green and click on `Avanzar`.
