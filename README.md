@@ -1,6 +1,6 @@
 <h1 align="center">No más ausente</h1>
 
-No mas ausente fué creado con la finalidad de que no se te asigne el estado 'Ausente' en Microsoft Teams automaticamente después de un tiempo determinado.
+No mas ausente fue creado con la finalidad de que no se te asigne el estado 'Ausente' en Microsoft Teams automaticamente después de un tiempo determinado.
 
 
 # Download
